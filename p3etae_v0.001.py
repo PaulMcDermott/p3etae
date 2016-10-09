@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-#PETAE - The Python 3 Experimental Text Adventure Game
+#P3ETAE - The Python 3 Experimental Text Adventure Game
 
 
 import os
